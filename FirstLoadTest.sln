@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FirstLoadTest", "FirstLoadTest\FirstLoadTest.csproj", "{F198D91A-67D5-4528-B10C-F27D8CB3FC0F}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{8614F08D-1D16-4E36-B9DF-C44D5B797501}"
+	ProjectSection(SolutionItems) = preProject
+		FirstLoadTest.vsmdi = FirstLoadTest.vsmdi
+		Local.testsettings = Local.testsettings
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(TestCaseManagementSettings) = postSolution
+		CategoryFile = FirstLoadTest.vsmdi
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F198D91A-67D5-4528-B10C-F27D8CB3FC0F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F198D91A-67D5-4528-B10C-F27D8CB3FC0F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F198D91A-67D5-4528-B10C-F27D8CB3FC0F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F198D91A-67D5-4528-B10C-F27D8CB3FC0F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
